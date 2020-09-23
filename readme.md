@@ -5,7 +5,7 @@ Spotlight
 
 ------
 
-A simple, elegant HTML blog template built on Bootstrap 4. Released under the Apache 2.0. The template is provided free of charge with no guarantee or warrantee.
+A simple, elegant HTML blog template built on Bootstrap 4. Released under the Apache 2.0. The template is provided free of charge with no guarantee or warranty.
 
 [TOC]
 
