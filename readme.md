@@ -1,7 +1,3 @@
-
-
-<img src="./images/logo.png" alt="img" style="zoom:25%;" />
-
 <center>Spotlight - HTML - Template
 </br>By Just A Guy Coding</center>
 
