@@ -13,6 +13,10 @@ A simple, elegant HTML blog template built on Bootstrap 4. Released under the Ap
 
 Spotlight is a HTML blog template provided free of charge, released under the Apache 2.0 License.
 
+##### Demo
+
+View the template online at https://justaguycoding.com/free/templates/spotlight_html 
+
 ##### Design Notes
 
 The Montserrat and Raleway fonts have been paired to create an easily readable, light and modern, blog.
